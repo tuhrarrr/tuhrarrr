@@ -1,4 +1,4 @@
-Olá, eu sou o Arthur (tuhrarr) 👋
+## Olá, eu sou o Arthur (tuhrarr) 👋
 
 🎓 Estudante de Back-end, com foco em Banco de Dados.  
 📚 Atualmente estudando SQL (MySQL).
