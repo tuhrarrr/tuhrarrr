@@ -1,10 +1,9 @@
 ## Olá, eu sou o Arthur (tuhrarr) 👋
 
-🎓 Estudante de Back-end, com foco em Banco de Dados.  
-📚 Atualmente estudando SQL (MySQL).
-🧠 Aprendendo modelagem de dados, relacionamentos e consultas.
+🎓 Estudante de Back-end.  
+📚 Atualmente estudando LÓGICA e ALGORITMO.
 🎯 Objetivo: evoluir para desenvolvedor back-end.
 
 🔧 Tecnologias:
-- SQL / MySQL.
+- Visualg.
 - Git & GitHub.
