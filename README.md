@@ -1,7 +1,7 @@
 ## Olá, eu sou o Arthur (tuhrarr) 👋
 
 🎓 Estudante de Back-end.  
-📚 Atualmente estudando LÓGICA e ALGORITMO.
+📚 Atualmente estudando PYTHON.
 🎯 Objetivo: evoluir para desenvolvedor back-end.
 
 🔧 Tecnologias:
