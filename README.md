@@ -1,4 +1,4 @@
-## Olá, eu sou o Arthur (tuhrarr) 👋
+## Olá, eu sou o Arthur 👋
 
 🎓 Estudante de Back-end.  
 📚 Atualmente estudando PYTHON.
