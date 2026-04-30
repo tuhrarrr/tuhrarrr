@@ -5,5 +5,5 @@
 🎯 Objetivo: evoluir para desenvolvedor back-end.
 
 🔧 Tecnologias:
-- Visualg.
+- Visual Studio Code.
 - Git & GitHub.
